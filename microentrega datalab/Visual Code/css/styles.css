@@ -1,0 +1,131 @@
+h1{
+    color: rgb(255, 21, 158);
+    font-family: 'Mulish' , sans-serif;
+    font-size: 450%;
+}
+h3{
+    font-family: 'Mulish' , sans-serif;
+    font-size: 100%;
+}
+p{
+    font-family: 'Mulish' , sans-serif; 
+}
+#navegador ul{
+    height: 25px;
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Mulish' , sans-serif;
+    font-weight: bold;
+    font-size: 110%;
+    border-radius: 15px;
+    background-color:rgb(135, 86, 47);
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 20px;
+}
+
+a{color: black;}
+legend {
+    font-family: 'Mulish' , sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+fieldset{
+    font-family:'Mulish' , sans-serif;
+    background-color: rgb(255, 21, 158);
+}
+footer{
+    font-family: 'Mulish' , sans-serif;
+    
+}
+#click {
+    font-family:'Mulish' , sans-serif;
+    background-color: rgb(255, 21, 158);
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+   .cat {
+    height: 200px;
+    width: 200px;
+   }
+
+   #legend {
+       background-color: rgb(135, 86, 47);
+       width: 250px;
+       text-align: center;
+   }
+   #legend2 {
+    background-color: rgb(135, 86, 47);
+    width: 250px;
+    text-align: center;
+}
+   #consultar {
+       color: white;
+       background-color: black;
+       font-family:'Mulish' , sans-serif;
+   }
+   #reset {
+    color: white;
+    background-color: black;
+    font-family:'Mulish' , sans-serif;}
+
+    #body {
+        height: 800px;
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        opacity: 0,5;
+    }
+    #hola {
+        background-color: black;
+        width: 400px;
+        margin: 100px 260px 15px;
+        text-align: center;
+        border-radius: 15px;
+    }
+    #bienvenidos {
+        color: black;
+        font-weight: bold;
+        margin: 100px 260px 15px;
+        text-align: center;
+    }
+    .fondo {
+        background-color: rgb(234, 234, 234);
+        height: 100vh;
+    }
+
+    .trabajo {
+        height: 250px;
+        font-weight: 250px;
+    }
+    .trabajo2 {
+        height: 250px;
+        font-weight: 250px;
+    }
+    .trabajo3 {
+        height: 250px;
+        font-weight: 250px;
+    }
+     .mifoto {
+         height: 400px;
+     }
+
+     #presentacion{
+         width: 350px;
+     }
+     #bloque {
+         display: flex;
+         flex-direction: row;
+     }
+     .fotocv {
+        height: 800px;
+     }
+
+     h4{
+        font-family: 'Mulish' , sans-serif;
+        font-size: 100%;
+    }
